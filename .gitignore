@@ -1,0 +1,11 @@
+.DS_Store
+pyvenv.cfg
+bin/
+lib/
+.env
+split_messages.csv
+share/
+__pycache__/
+*.txt
+*.png
+zendesk_tickets_data/
