@@ -17,21 +17,21 @@ You can choose any of the following options:
 <li>Put all the files in the same folder.</li>
 </ul>
 
-#### B) Make this.
+#### B) Make this:
 
 <ol>
-<li>Create a .env file and set the following info:<br>
+<li>Create a .env file and set the following info like this:<br>
 https://user-images.githubusercontent.com/22822405/210816877-bd016f2b-0d6c-4805-99eb-c2463672879c.png
 </li>
-<li>Now set your own ticket search options:<br>
+<li>Now set your own ticket search options in the "zd_ticket_messages.py" file like this:<br>
 https://user-images.githubusercontent.com/22822405/210815907-dec2fc5f-72c6-4878-9f68-702141b6e7eb.png</li>
 </ol>
 
-#### C) Follow this steps.
+#### C) Run the program.
 
-<ol>
+<ul>
 <li>Run ONLY the home.py file</li>
-</ol>
+</ul>
 <br>
 
 
