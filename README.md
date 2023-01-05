@@ -14,12 +14,22 @@ You can choose any of the following options:
 <ul>
 <li>You can clone this repo (recommended).</li>
 <li>Or just manually download the files with the .py extension.</li>
+<li>Put all the files in the same folder.</li>
 </ul>
 
-#### B) follow this steps.
+#### B) Make this.
 
 <ol>
-<li>Put all the files in the same folder.</li>
+<li>Create a .env file and set the following info:<br>
+https://user-images.githubusercontent.com/22822405/210816877-bd016f2b-0d6c-4805-99eb-c2463672879c.png
+</li>
+<li>Now set your own ticket search options:<br>
+https://user-images.githubusercontent.com/22822405/210815907-dec2fc5f-72c6-4878-9f68-702141b6e7eb.png</li>
+</ol>
+
+#### C) Follow this steps.
+
+<ol>
 <li>Run ONLY the home.py file</li>
 </ol>
 <br>
