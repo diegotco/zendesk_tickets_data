@@ -17,7 +17,7 @@ You can choose any of the following options:
 <li>Put all the files in the same folder.</li>
 </ul>
 
-#### B) Make this:
+#### B) Do this:
 
 <ol>
 <li>Create a .env file and set the following info like this:<br>
