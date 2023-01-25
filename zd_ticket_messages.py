@@ -38,7 +38,7 @@ params = {
             group:"{group2}"'
 
     # B) Query for all open tickets that were created today! (You can modify the "created" query to 1hours, 4hours, etc) and delete the others "created" queries.
-    #'query': 'type:ticket status:open created>1hours # You can add groups or not, it's up to you.
+    #'query': 'type:ticket status:open created>1hours' # You can add groups or not, it's up to you.
 }
 
 # Set the request parameters.
