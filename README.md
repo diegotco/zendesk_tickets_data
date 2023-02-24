@@ -8,6 +8,8 @@
 
 ## How to run this program?
 
+This code runs on Python version 3.
+
 #### A) Download the files.
 You can choose any of the following options:
 
