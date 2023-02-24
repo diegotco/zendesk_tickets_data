@@ -8,6 +8,8 @@
 
 ## How to run this program?
 
+This code runs on Python version 3.
+
 #### A) Download the files.
 You can choose any of the following options:
 
@@ -29,10 +31,25 @@ https://user-images.githubusercontent.com/22822405/210815907-dec2fc5f-72c6-4878-
 
 #### C) Run the program.
 
-<ul>
-<li>Run ONLY the home.py file</li>
-</ul>
-<br>
+To run the script we have to provide the following variables:
+- ZENDESK_USER
+- ZENDESK_API_KEY
+
+**Option 1:** load from configuration file
+
+Use a configuration file with the variables previously described
+
+```
+ZENDESK_CONFIG=.env python3 home.py
+```
+
+Where ZENDESK_CONFIG=env_file_containing_vars
+
+**Option 2:** user your own environment variables from command line
+
+```
+ZENDESK_USER=diego ZENDESK_API_KEY=1234 python3 home.py
+```
 
 
 ## What to expect?
