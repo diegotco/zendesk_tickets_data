@@ -22,6 +22,7 @@ def load_configuration():
         config = {}
         config['ZENDESK_USER'] = os.environ.get("ZENDESK_USER")
         config['ZENDESK_API_KEY'] = os.environ.get("ZENDESK_API_KEY")
+        config['ZENDESK_OUTPUT_FILE'] = os.environ.get("ZENDESK_OUTPUT_FILE")
         logging.info("Username configured: " + config['ZENDESK_USER'])
         return config
 
